@@ -1,0 +1,7 @@
+C:\Users\KDFX Modes\Desktop\ОКВГУ\ПРАКТИКА\Александрович Евгений. Модуль 4\Zadanie5\Zadanie5\bin\Debug\Zadanie5.exe.config
+C:\Users\KDFX Modes\Desktop\ОКВГУ\ПРАКТИКА\Александрович Евгений. Модуль 4\Zadanie5\Zadanie5\bin\Debug\Zadanie5.exe
+C:\Users\KDFX Modes\Desktop\ОКВГУ\ПРАКТИКА\Александрович Евгений. Модуль 4\Zadanie5\Zadanie5\bin\Debug\Zadanie5.pdb
+C:\Users\KDFX Modes\Desktop\ОКВГУ\ПРАКТИКА\Александрович Евгений. Модуль 4\Zadanie5\Zadanie5\obj\Debug\Zadanie5.csproj.AssemblyReference.cache
+C:\Users\KDFX Modes\Desktop\ОКВГУ\ПРАКТИКА\Александрович Евгений. Модуль 4\Zadanie5\Zadanie5\obj\Debug\Zadanie5.csproj.CoreCompileInputs.cache
+C:\Users\KDFX Modes\Desktop\ОКВГУ\ПРАКТИКА\Александрович Евгений. Модуль 4\Zadanie5\Zadanie5\obj\Debug\Zadanie5.exe
+C:\Users\KDFX Modes\Desktop\ОКВГУ\ПРАКТИКА\Александрович Евгений. Модуль 4\Zadanie5\Zadanie5\obj\Debug\Zadanie5.pdb
